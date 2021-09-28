@@ -4,7 +4,7 @@
 
 ### Student of Engineering 🤓
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/Cristopher_GGS)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Cristopher_GGS?style=social)](https://twitter.com/Cristopher_GGS)
 ![GitHub Followers](https://img.shields.io/github/followers/CristopherGS?style=social)
 
 ## Skills:
