@@ -1,4 +1,6 @@
-# ![]()Hello, my name is Cristopher Segura
+# ![https://github.com/CristopherGS](https://c.tenor.com/B64bnz6gRjEAAAAi/wave-hello.gif)    Hello, my name is Cristopher Segura
+
+![https://github.com/CristopherGS](https://raw.githubusercontent.com/CristopherGS/CristopherGS/main/img/profile.gif)
 
 ### Student of Engineering 🤓
 
@@ -7,8 +9,8 @@
 
 ## Skills:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)()
-[![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 <br>
