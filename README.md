@@ -34,11 +34,11 @@ And more...
 [![Instagram](https://img.shields.io/badge/Instagram-@guerra_segura01-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/guerra_segura01)
 [![Facebook](https://img.shields.io/badge/Facebook-@christofer.guerra-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/christofer.guerra)
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristopher-gilberto-guerra-segura-62233b125)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristopher Guerra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristopher-gilberto-guerra-segura-62233b125)
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:guerracristofer@gmail.com)
+[![Email](https://img.shields.io/badge/guerracristofer@gmail.com.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:guerracristofer@gmail.com)
 <!--
 **CristopherGS/CristopherGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
