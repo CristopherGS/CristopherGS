@@ -34,7 +34,7 @@ And more...
 [![Instagram](https://img.shields.io/badge/Instagram-@guerra_segura01-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/guerra_segura01)
 [![Facebook](https://img.shields.io/badge/Facebook-@christofer.guerra-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/christofer.guerra)
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristopher Guerra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristopher-gilberto-guerra-segura-62233b125)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristopher_Guerra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristopher-gilberto-guerra-segura-62233b125)
 
 ## Contact me:
 
